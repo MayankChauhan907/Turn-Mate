@@ -99,11 +99,6 @@ Library: D:\Projects\3D Games\Test Task\Turn Mate\Temp\StagingArea\Data\Plugins\
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
---compilation-defines=DEVELOPMENT_BUILD
---compilation-defines=ENABLE_PROFILER
---compilation-defines=DEBUG
---compilation-defines=TRACE
---compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -138,7 +133,6 @@ Library: D:\Projects\3D Games\Test Task\Turn Mate\Temp\StagingArea\Data\Plugins\
 --linker-options=PdbAltPath="Turn Mate_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Projects\3D Games\Test Task\Turn Mate\Temp\Burst
---debug=Full
 --output=D:\Projects\3D Games\Test Task\Turn Mate\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -256,11 +250,6 @@ Library: D:\Projects\3D Games\Test Task\Turn Mate\Temp\StagingArea\Data\Plugins\
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
---compilation-defines=DEVELOPMENT_BUILD
---compilation-defines=ENABLE_PROFILER
---compilation-defines=DEBUG
---compilation-defines=TRACE
---compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -295,7 +284,6 @@ Library: D:\Projects\3D Games\Test Task\Turn Mate\Temp\StagingArea\Data\Plugins\
 --linker-options=PdbAltPath="Turn Mate_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Projects\3D Games\Test Task\Turn Mate\Temp\Burst
---debug=Full
 --output=D:\Projects\3D Games\Test Task\Turn Mate\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
