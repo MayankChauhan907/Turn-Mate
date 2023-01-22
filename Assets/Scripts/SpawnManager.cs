@@ -10,8 +10,6 @@ public class SpawnManager : MonoBehaviour
     [SerializeField]
     Transform _player1Pos, _player2Pos;
     [SerializeField]
-    List<Transform> PositionsToSpawn;
-    [SerializeField]
     Vector3 _offSet;
 
     // Start is called before the first frame update
